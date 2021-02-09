@@ -1,0 +1,16 @@
+.header-day {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid black;
+}
+
+.header-night {
+    background-color: black;
+    color: rgb(12, 3, 92);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid white;
+}
